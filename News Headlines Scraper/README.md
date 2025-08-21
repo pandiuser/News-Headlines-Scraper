@@ -9,6 +9,6 @@ A simple Python project to scrape top news headlines from BBC News using `reques
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/news_scraper.git
+git clone https://github.com/pandiuser/news_scraper.git
 cd news_scraper
 pip install -r requirements.txt
