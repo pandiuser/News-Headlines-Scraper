@@ -1,2 +1,14 @@
-# News-Headlines-Scraper
-A simple Python project that scrapes the latest news headlines from BBC News using Requests and BeautifulSoup. The scraped data is displayed in the console and saved into a timestamped CSV file inside the data folder. Built with Python, Requests, BeautifulSoup, and Pandas for learning and practice.
+# 📰 News Headlines Scraper
+
+A simple Python project to scrape top news headlines from BBC News using `requests` and `BeautifulSoup`.
+
+## Features
+- Scrapes top news headlines
+- Displays them in the console
+- Saves headlines to a CSV file with a timestamp
+
+## Installation
+```bash
+git clone https://github.com/yourusername/news_scraper.git
+cd news_scraper
+pip install -r requirements.txt
